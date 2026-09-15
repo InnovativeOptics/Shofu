@@ -5,7 +5,7 @@ account: inva
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14968374
-bundleId: 10492632
+bundleId: 12555017
 url: https://inva.shinyapps.io/Shofu/
 version: 1
 asMultiple: FALSE
